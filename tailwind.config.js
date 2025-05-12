@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // tailwind.config.js
 module.exports = {
   content: [
